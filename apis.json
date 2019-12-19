@@ -1,0 +1,64 @@
+{
+    "name": "playme_api",
+    "description": "Enjoy free access to your favorite songs and online radio stations",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/460-playme_api.jpg",
+    "tags": [
+        "broadcasts",
+        "downloads",
+        "have api",
+        "mp3",
+        "music",
+        "streaming"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/playme-api\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "playme_api",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/460-playme_api.jpg",
+            "humanURL": "http:\/\/lab.playme.com",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-postman-collecction",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/playme-api-postman-collection.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Website",
+            "url": "http:\/\/lab.playme.com"
+        },
+        {
+            "type": "Blog",
+            "url": "http:\/\/blog.placecast.net\/"
+        },
+        {
+            "type": "Crunchbase",
+            "url": "https:\/\/crunchbase.com\/organization\/playme-fm"
+        },
+        {
+            "type": "Crunchbase",
+            "url": "http:\/\/www.crunchbase.com\/company\/placecast"
+        },
+        {
+            "type": "Github",
+            "url": "https:\/\/github.com\/Playme"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/playme_radio"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/#!\/playme_api"
+        }
+    ]
+}
